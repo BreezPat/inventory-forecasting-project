@@ -43,7 +43,7 @@ inventory-forecasting-project/
 │   └── executive_summary.pdf
 ├── README.md
 └── requirements.txt
-
+...
 ## 📌 Key Insights
 
 - SKU_0204 had the highest total annual sales and was used for demand forecasting
