@@ -44,42 +44,33 @@ inventory-forecasting-project/
 ├── README.md
 └── requirements.txt
 
-Key Insights
-SKU_0204 had the highest total annual sales and was used for demand forecasting
+## 📌 Key Insights
 
-Vendor_2 led in overall sales volume, suggesting reliable replenishment
+- SKU_0204 had the highest total annual sales and was used for demand forecasting
+- Vendor_2 led in overall sales volume, suggesting reliable replenishment
+- Several SKUs exhibited frequent stockouts and should be evaluated for action
+- Forecasting with 3-week moving averages achieved MAE: 6.74 and RMSE: 8.04
 
-Several SKUs exhibited frequent stockouts and should be evaluated for action
+---
 
-Forecasting with 3-week moving averages achieved MAE: 6.74 and RMSE: 8.04
+## 📈 Visuals
 
-📈 Visuals
-Visualizations include:
+- Weekly average sales by category
+- Top 10 best-selling SKUs
+- Vendor performance by volume
+- Stockout analysis by SKU
+- Boxplots of weekly sales variability
+- Forecast chart (actual vs. predicted sales)
 
-Weekly average sales by category
+---
 
-Top 10 best-selling SKUs
+## 🚀 How to Use
 
-Vendor performance by volume
-
-Stockout analysis by SKU
-
-Boxplots of weekly sales variability
-
-Forecast chart (actual vs. predicted sales)
-
-All charts are saved as PNG files in the /visualizations folder.
-
-🚀 How to Use
-Clone or download the repository
-
-Run 01_data_cleaning.ipynb to clean and export data
-
-Run 02_forecasting_model.ipynb to perform demand forecasting
-
-View chart outputs in the visualizations/ folder
-
-Review the executive summary PDF under reports/
+1. Clone or download the repository  
+2. Run `01_data_cleaning.ipynb` to clean and export data  
+3. Run `02_forecasting_model.ipynb` to perform demand forecasting  
+4. View chart outputs in `visualizations/` folder  
+5. Review the executive summary PDF under `reports/`
 
 
 📨 Contact
