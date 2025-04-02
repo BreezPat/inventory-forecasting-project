@@ -43,7 +43,8 @@ inventory-forecasting-project/
 │   └── executive_summary.pdf
 ├── README.md
 └── requirements.txt
-...
+```
+
 ## 📌 Key Insights
 
 - SKU_0204 had the highest total annual sales and was used for demand forecasting
@@ -71,9 +72,3 @@ inventory-forecasting-project/
 3. Run `02_forecasting_model.ipynb` to perform demand forecasting  
 4. View chart outputs in `visualizations/` folder  
 5. Review the executive summary PDF under `reports/`
-
-
-📨 Contact
-This project is part of a data analytics portfolio for inventory and supply chain roles.
-For questions or dashboard previews, feel free to reach out via LinkedIn or GitHub.
-
