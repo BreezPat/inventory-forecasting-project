@@ -47,6 +47,7 @@ inventory-forecasting-project/
 │   └── executive_summary.pdf
 ├── sql_analysis/
 │   └── sql_sku_inventory_analysis.sql
+|   └── sql_query_results.md
 ├── README.md
 └── requirements.txt
 ```
