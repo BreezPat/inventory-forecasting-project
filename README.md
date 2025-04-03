@@ -79,6 +79,28 @@ This interactive dashboard visualizes SKU-level inventory trends, category sales
 
 ---
 
+## 🧮 SQL Analysis Summary
+
+This directory contains BigQuery SQL queries used to analyze SKU-level sales, vendor performance, and inventory behavior based on 12 months of synthetic retail data.
+
+### File: `sql_sku_inventory_analysis.sql`
+Contains 4 key queries:
+
+1. **Top-Selling SKUs**  
+   Identifies SKUs with the highest cumulative sales across the year.
+
+2. **Vendor Performance Summary**  
+   Aggregates vendor-level sales volume and average lead times.
+
+3. **Weekly Sales by Category**  
+   Detects seasonal patterns and demand trends across product categories.
+
+4. **Frequent Stockouts**  
+   Flags SKUs that had multiple weeks of zero sales (potential stockouts).
+
+All queries were executed using Google BigQuery and reflect real-world use cases for inventory analysts and supply chain BI roles.
+
+---
 
 ## 🚀 How to Use
 
