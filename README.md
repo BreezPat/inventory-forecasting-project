@@ -108,6 +108,29 @@ All queries were executed using Google BigQuery and reflect real-world use cases
 
 ---
 
+📊 Excel Analysis
+The excel_analysis folder contains advanced Excel models designed to simulate real-world inventory monitoring and prioritization strategies.
+
+Key Components:
+
+ABC Analysis
+Classified SKUs into A/B/C groups based on sales contribution to prioritize inventory decisions.
+
+Dynamic Reorder Alert Dashboard
+Used Excel formulas (IF, VLOOKUP, XLOOKUP, conditional formatting) to flag low-stock SKUs based on simulated inventory levels and reorder points.
+
+Revenue Loss Estimator
+Identified potential cost-saving opportunities by estimating lost sales due to stockouts and excess inventory scenarios.
+
+File:
+
+📊 Inventory_Insights_Excel_Portfolio.xlsx — contains all sheets, dashboards, and supporting logic.
+
+This Excel work showcases practical supply chain problem-solving using data-driven business logic and visualization techniques.
+
+---
+
+
 ## 🚀 How to Use
 
 1. Clone or download the repository  
