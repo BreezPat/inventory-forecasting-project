@@ -75,7 +75,8 @@ This interactive dashboard visualizes SKU-level inventory trends, category sales
 - Vendor-level performance by total units sold
 - Interactive slicers for filtering by Category, Vendor, and Store Location
 
-🖼️ Click to see the Visuals [[visualizations](./visualizations/](https://github.com/BreezPat/inventory-forecasting-project/blob/main/visualizations/power_bi_dashboard.pdf)) 
+🖼️ Click to see the PowerBI Visuals 📄 [Dashboard PDF](https://github.com/BreezPat/inventory-forecasting-project/blob/main/visualizations/power_bi_dashboard.pdf) 
+
 ---
 
 
