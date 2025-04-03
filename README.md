@@ -38,9 +38,15 @@ inventory-forecasting-project/
 │   ├── vendor_performance.png
 │   ├── sales_variability_by_category.png
 │   ├── moving_average_forecast.png
-│   └── visualizations_summary.pdf (optional)
+│   ├── power_bi_dashboard.pbix
+│   ├── power_bi_dashboard.pdf
+│   └── visualizations_summary.pdf
+├── excel_analysis/
+│   └── Inventory_Insights_Excel_Portfolio.xlsx
 ├── reports/
 │   └── executive_summary.pdf
+├── sql_analysis/
+│   └── sql_sku_inventory_analysis.sql
 ├── README.md
 └── requirements.txt
 ```
