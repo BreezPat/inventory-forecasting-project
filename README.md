@@ -65,6 +65,20 @@ inventory-forecasting-project/
 
 ---
 
+## 📊 Power BI Dashboard
+
+This interactive dashboard visualizes SKU-level inventory trends, category sales, and vendor performance based on 12 months of sales data.
+
+**Key Features:**
+- Top 10 SKUs by total units sold
+- Weekly sales trend by product category
+- Vendor-level performance by total units sold
+- Interactive slicers for filtering by Category, Vendor, and Store Location
+
+🖼️ Click to see the Visuals [[visualizations](./visualizations/](https://github.com/BreezPat/inventory-forecasting-project/blob/main/visualizations/power_bi_dashboard.pdf)) 
+---
+
+
 ## 🚀 How to Use
 
 1. Clone or download the repository  
